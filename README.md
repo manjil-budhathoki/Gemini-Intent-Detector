@@ -57,7 +57,7 @@ python Intent_detector.py
 
 ## 🧠 Example Queries
 
-```
+
 ![Examples Queries](image.png)
 ---
 
