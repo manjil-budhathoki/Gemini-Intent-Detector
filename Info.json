@@ -1,0 +1,178 @@
+{
+  "about": {
+    "bio": "I'm Manjil Budhathoki, an AI-focused Computer Science student exploring the intersection of machine learning, web development, and creative problem-solving.Recently,swifting my focus on LLM, RAG, and Prompt Engineering to enanche my skills in AI.",
+    "education": {
+      "degree": "Bachelor of Computer Science",
+      "institution": "Sunway College Kathmandu : Associated with Birmingham City University",
+      "location": "Kathmandu, Nepal",
+      "start_year": 2023,
+      "graduation_year": 2027   
+    },
+
+    "interests": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Web Development",
+      "Chatbot Development",
+      "Data Science",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Game Development",
+      "Creative Writing"
+    ],
+    "hobbies": [
+      "Reading",
+      "Traveling",
+      "Photography",
+      "Gaming"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "name": "Nepali",
+        "proficiency": "Native"
+      }
+    ],
+    "location": {
+      "city": "Kathmandu",
+      "country": "Nepal"
+    },
+    "date_of_birth": "2004-05-15",
+    "profile_picture": "manjil.jpg",
+
+    "resume": "https://drive.google.com/file/d/1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p/view?usp=sharing"
+  },
+
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "C#",
+      "PHP",
+      "Bash"
+    ],
+    "frameworks_tools": [
+      "React",
+      "Flask",
+      "Sklearn",
+      "Pandas",
+      "Numpy",
+      "Matplotlib",
+      "Power BI",
+      "OpenCV",
+      "TensorFlow",
+      "Keras",
+      "Bootstrap",
+      "Git",
+      "Figma",
+      "Jupyter Notebook",
+      "VS Code",
+      "Eclipse",
+      "MySQL",
+      "SQLite",
+      "Docker",
+      "Unity",
+      "Canva",
+      "Slack",
+      "Notion",
+      "Discord",
+      "Zoom",
+      "Microsoft Office",
+      "Google Workspace",
+      "Jira",
+      "GitHub",
+      "GitLab"
+    ],
+    "soft_skills": [
+      "Creative Thinking",
+      "Problem Solving",
+      "Innovation",
+      "Attention to Detail",
+      "Teamwork",
+      "Adaptability",
+      "Time Management",
+      "Communication"
+    ]
+  },
+  "experience": {
+    "achievements": [
+      {
+        "title": "Gold Medal at Innovation Fest 2024",
+        "organization": "Sunway College Kathmandu",
+        "date": "2024-07-28",
+        "certificate": "innovation_fest_certificate.png"
+      },
+      {
+        "title": "1st Runner-Up at AI Ideathon 2023",
+        "organization": "Sunway College Kathmandu",
+        "date": "2023-10-10",
+        "certificate": "ai_ideathon_certificate.png"
+      }
+    ]
+  },
+  "projects": {
+    "list": [
+      {
+        "title": "Attendease",
+        "description": "Face recognition attendance system using OpenCV and Flask, with liveness detection and time optimization.",
+        "tech_stack": [
+          "Python",
+          "OpenCV",
+          "Flask"
+        ],
+        "github": "https://github.com/manjil-budhathoki/attendees",
+        "image": "attendees.png"
+      },
+      {
+        "title": "Flight Management System",
+        "description": "Java-based desktop system for airline operations built using OOP principles.",
+        "tech_stack": [
+          "Java",
+          "Swing",
+          "JDBC"
+        ]
+      },
+      {
+        "title": "Hospital Management System",
+        "description": "Full-stack admin dashboard for hospital operations built with PHP and MySQL.",
+        "tech_stack": [
+          "PHP",
+          "MySQL",
+          "Bootstrap"
+        ]
+      },
+      {
+        "title": "Web Novel App",
+        "description": "Frontend web application for browsing novels using responsive design.",
+        "tech_stack": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "title": "Car Review and Rating",
+        "description": "A review platform for cars allowing user feedback and rating with database integration.",
+        "tech_stack": [
+          "PHP",
+          "SQL",
+          "Bootstrap"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "email": "manjilbbudhathoki@gmail.com",
+    "linkedin": "https://linkedin.com/in/manjil-budhathoki",
+    "github": "https://github.com/manjil-budhathoki",
+    "kaggle": "https://www.kaggle.com/manjilbudhathoki",
+    "datacamp": "https://www.datacamp.com/portfolio/budhathokimanjil"
+  }
+}
